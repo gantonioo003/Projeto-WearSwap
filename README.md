@@ -12,4 +12,8 @@ Olá esse é o repositório do projeto WearSwap! Um aplicativo desenvolvido por 
     <a  href="https://wearswap.atlassian.net/jira/software/projects/KAN/boards/1"
       >Link do Jira</a
     >
+        <li>
+    <a  href="https://www.figma.com/file/sGaIQxFZZLGjDgX7vIfEG0/WearSwap?type=design&node-id=0-1&mode=design&t=KvK6inAtdmDSNPXU-0"
+      >Link do Figma</a
+    >
   </li>
