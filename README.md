@@ -26,3 +26,9 @@ Olá esse é o repositório do projeto WearSwap! Um aplicativo desenvolvido por 
 * Backlog do Jira
 ![37d74757-a42c-4e70-8bc5-37203aeb0d6d](https://github.com/gantonioo003/Projeto-WearSwap/assets/163006803/cd333e1c-1937-43d4-baa4-d59efa566769)
 
+ <li>
+    <a  href="https://youtu.be/JXN06530_D4?feature=shared"
+      >Link do Screencast</a
+    >
+
+
